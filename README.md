@@ -4,6 +4,10 @@
 
 This repository contains works, assignments, and homework completed for the course **Computer Science 216: Data Structures and Algorithms** during the **Spring 2024** semester. The course focused on fundamental data structures and algorithms, emphasizing practical applications and efficiency.
 
+## Programming Language
+
+- **Java**: All assignments and projects in this repository are developed using Java, showcasing object-oriented programming principles and various data structures.
+
 ## Course Objectives
 
 - Understand and implement various data structures, including arrays, linked lists, stacks, queues, trees, and graphs.
